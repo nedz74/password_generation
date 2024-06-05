@@ -1,0 +1,60 @@
+body {
+    background: #1C1C1C;
+}
+
+span
+{
+    color: #4ADF86;
+;
+}
+
+h1
+{
+    color: white;
+    padding: 100px 0px 0px 52px;
+    font-weight: 800;
+    font-size: 40px;
+}
+p
+{
+    margin: 0px 0px 0px 52px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #D5D4D8;
+}
+button
+{
+    margin-left: 52px;
+    margin-top: 54px;
+    margin-bottom: 80px;
+    width: Hug (191px)px;
+    padding: 10px 17px;
+    border-radius: 6px;
+    background: #10B981;
+    color: #FFFFFF;
+}
+.boxes
+{
+    display: flex;
+    font-weight: bold;
+}
+
+.box
+{
+    width: 211px;
+    height: 39px;
+    border-radius: 6px;
+    background: #273549;
+    margin-bottom: 100px;
+    margin-left: 52px;
+    color: #55F991;
+    text-align: center;
+    align-content: center;
+}
+
+
+div
+{
+    background: #1F2937;
+}
